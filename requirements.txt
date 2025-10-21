@@ -8,3 +8,4 @@ coverage==7.3.2
 tox==4.11.3
 pydantic==2.10.4
 greenlet==3.1.1
+# jetson-stats==4.2.4  # Optional: Install system-wide with 'sudo pip3 install jetson-stats' if on Jetson device
